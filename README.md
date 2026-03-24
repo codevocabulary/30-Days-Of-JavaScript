@@ -85,8 +85,4 @@ By the end of this course you will:
 Built with ❤️ for the developer community.  
 Feel free to star ⭐ this repo if it helps you!
 
----
 
-## 📄 License
-
-MIT — free to use, share, and modify.
